@@ -5,7 +5,7 @@ class Song
   include Memorable::InstanceMethods
 
   # extend reset_all
-  extend count
+  # extend count
   include Paramable
 
 
